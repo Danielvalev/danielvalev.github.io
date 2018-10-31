@@ -108,7 +108,7 @@ function init() {
 // Coming soon page Timer
 
 // Set the date we're counting down to
-var countDownDate = new Date("NOV 15, 2018 19:37:25").getTime();
+var countDownDate = new Date("NOV 15, 2018 19:38:25").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
